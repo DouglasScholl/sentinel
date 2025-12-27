@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+.env
+.env.*
+
+# Logs e arquivos gerados
+*.log
+*.csv
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / cache
+*.pyo
+*.pyd
+*.so
+
+# Backup de arquivos
+*~
+*.bak

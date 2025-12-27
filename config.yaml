@@ -1,0 +1,2 @@
+collection_interval: 5  # tempo em segundos entre coletas
+log_level: INFO          # nível de log
